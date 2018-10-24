@@ -10,10 +10,6 @@
 
 ##### Talks
 
-- 经济研究[1]
-- 管理世界[2]
-
-
-[1]: http://www.erj.cn/
-[2]: http://www.mwm.net.cn/
+- [经济研究](http://www.erj.cn/)
+- [管理世界](http://www.mwm.net.cn/)
 
